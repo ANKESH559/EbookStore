@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Lenovo\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.2
+2 info using node@v22.16.0
+3 silly config load:file:C:\Users\Lenovo\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:a:\react\codebook\.npmrc
+5 silly config load:file:C:\Users\Lenovo\.npmrc
+6 silly config load:file:a:\react\codebook\%APPDATA%\npm\etc\npmrc
+7 verbose title npm view @testing-library/dom description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "@testing-library/dom" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:a:\react\codebook\%APPDATA%\npm-cache\_logs\2026-02-01T11_13_14_436Z-
+10 verbose logfile a:\react\codebook\%APPDATA%\npm-cache\_logs\2026-02-01T11_13_14_436Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fdom 1489ms (cache miss)
+13 verbose cwd a:\react\codebook
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v22.16.0
+16 verbose npm  v11.6.2
+17 verbose exit 0
+18 info ok
